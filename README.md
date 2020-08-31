@@ -5,7 +5,7 @@ Completed on 28th of August as a final project for "Data Science" course at Soft
 
 
 
-Along with an in-depth economic analysis of factors that drive risk and growth in Emerging Markets, this project utilizes the following DataScience techniques in Python language to quantify the factors and draw useful conclusions across different countries and regions:
+Along with in-depth economic analysis of factors that drive risk and growth in Emerging Markets, this project utilizes the following DataScience techniques in Python language to quantify the factors and draw useful conclusions across different countries and regions:
 
 - Data Acquisition: more than 30 economic & political indicators are acquired from 7 different official data sources - including DBnomics API, United Nations API, online excel files on World Justice Project and IMF websites, and web-scrapping websites of The Observatory of Economic Complexity (OEC), Freedom House and CEIC using BeautifulSoup.
 
