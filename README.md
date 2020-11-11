@@ -1,6 +1,6 @@
 Identifying short-term risks and long-term opportunities across Emerging Market economies
 
-Completed on 28th of August as a final project for "Data Science" course at SoftUni 
+Completed on 28th of August as a final project for "Data Science" course at Software University 
 (course 2 of 4 of "Artificial Intelligence" specialization)
 
 
