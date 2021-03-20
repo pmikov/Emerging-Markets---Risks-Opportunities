@@ -7,24 +7,24 @@ Completed on 28th of August as a final project for "Data Science" course at Soft
 **The project consists of the following chapters:**
 1. Introduction
 2. Data Selection - selecting group of factors for evaluating: 
-       1. Macro Stability (risk of economic crisis) 
-       2. External Vulnerability (risk of Balance of Payments crisis)
-       3. Institutional Strength
-       4. Long-term Economic Growth
+   - Macro Stability (risk of economic crisis) 
+   - External Vulnerability (risk of Balance of Payments crisis)
+   - Institutional Strength
+   - Long-term Economic Growth
 3. Data Acquistion and cleaning -  more than 30 economic & political indicators are acquired from 7 different official data sources by:
-  - connecting to official APIs of DBnomics and United Nations
-  - connecting to online Excel databases on World Justice Project and IMF websites
-  - using BeautifulSoup for web-scrapping websites of The Observatory of Economic Complexity (OEC), Freedom House and CEIC
+   - connecting to official APIs of DBnomics and United Nations
+   - connecting to online Excel databases on World Justice Project and IMF websites
+   - using BeautifulSoup for web-scrapping websites of The Observatory of Economic Complexity (OEC), Freedom House and CEIC
 4. Combining all data into one dataframe - formatting the data and dealing with missing values
 5. Data Transformation - performing and comparing three methods of rescaling data:
-  - Z-score standardization
-  - min-max normalization 
-  - quantile transformation into UPD
+   - Z-score standardization
+   - min-max normalization 
+   - quantile transformation into UPD
 6. Deriving the Final Scores and Visualizations - methods deployed:
-  - bar and scatter plot charts with annotations and conditional formatting using matplotlib & seaborn libraries
-  - conditional formatting on DataFrames
-  - visualizations by MultiIndex slicing
-  - world map using Basemap library
+   - bar and scatter plot charts with annotations and conditional formatting using matplotlib & seaborn libraries
+   - conditional formatting on DataFrames
+   - visualizations by MultiIndex slicing
+   - world map using Basemap library
 7. Conclusion & Further Research
 
 **"Data Science" course at Software University covers the following topics (4-hour live Lectures + Labs):**
