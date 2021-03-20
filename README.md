@@ -39,4 +39,6 @@ Completed on 28th of August as a final project for "Data Science" course at Soft
 8. Exam Preparation: End-to-end Project
 9. Course Summary
 
+Repository with homework done for the course: https://github.com/pmikov/Data-Science-SoftUni---Labs
+
 Certificate: https://softuni.bg/certificates/details/88513/74f6fa46, 6.00/6.00, 110 out of 110 points
