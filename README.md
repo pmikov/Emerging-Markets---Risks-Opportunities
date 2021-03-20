@@ -26,3 +26,17 @@ Completed on 28th of August as a final project for "Data Science" course at Soft
   - visualizations by MultiIndex slicing
   - world map using Basemap library
 7. Conclusion & Further Research
+
+**"Data Science" course at Software University covers the following topics (4-hour live Lectures + Labs):**
+
+1. Data Acquisiton
+2. Data Tidying and Cleaning
+3. Data Visualization; Exploratory Data Analysis
+4. Working with Images and Text
+5. Working with Spatial data; Network Analysis
+6. Regression Models
+7. Data Science Project Architecture
+8. Exam Preparation: End-to-end Project
+9. Course Summary
+
+Certificate: https://softuni.bg/certificates/details/88513/74f6fa46, 110 out of 110 points
