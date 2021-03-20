@@ -7,10 +7,10 @@ Completed on 28th of August as a final project for "Data Science" course at Soft
 **The project consists of the following chapters:**
 1. Introduction
 2. Data Selection - selecting group of factors for evaluating: 
-  ...- Macro Stability (risk of economic crisis) 
-  ...- External Vulnerability (risk of Balance of Payments crisis)
-  ...- Institutional Strength, 
-  ...- Long-term Economic Growth
+  ⋅⋅⋅- Macro Stability (risk of economic crisis)⋅⋅⋅ 
+  ⋅⋅⋅- External Vulnerability (risk of Balance of Payments crisis)⋅⋅⋅
+  ⋅⋅⋅- Institutional Strength⋅⋅⋅
+  ⋅⋅⋅- Long-term Economic Growth⋅⋅⋅
 3. Data Acquistion and cleaning -  more than 30 economic & political indicators are acquired from 7 different official data sources by:
   - connecting to official APIs of DBnomics and United Nations
   - connecting to online Excel databases on World Justice Project and IMF websites
