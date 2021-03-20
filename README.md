@@ -1,10 +1,10 @@
-### [Emerging Markets – short-term risks and long-term opportunities](https://github.com/pmikov/Emerging-Markets---Risks-Opportunities/blob/master/EM%20Risks%20%26%20Opportunities.ipynb)
+## [Emerging Markets – short-term risks and long-term opportunities](https://github.com/pmikov/Emerging-Markets---Risks-Opportunities/blob/master/EM%20Risks%20%26%20Opportunities.ipynb)
 Identifying short-term risks and long-term opportunities across Emerging Market economies
 
 Completed on 28th of August as a final project for "Data Science" course at Software University (June - August 2020)
 - course 2 of 4 of "Artificial Intelligence" specialization
 
-**The project consists of the following chapters:**
+### The project consists of the following chapters:
 1. Introduction
 2. Data Selection - selecting group of factors for evaluating: 
    - Macro Stability (risk of economic crisis) 
@@ -27,7 +27,7 @@ Completed on 28th of August as a final project for "Data Science" course at Soft
    - world map using Basemap library
 7. Conclusion & Further Research
 
-**"Data Science" course at Software University covers the following topics (4-hour live Lectures + Labs):**
+### "Data Science" course at Software University covers the following topics (4-hour live Lectures + Labs):
 
 1. Data Acquisiton
 2. Data Tidying and Cleaning
